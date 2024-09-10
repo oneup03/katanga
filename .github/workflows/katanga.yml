@@ -44,4 +44,4 @@ jobs:
 #           GamePlugin64.dll
 #           UnityNativePlugin64.dll
         # A file, directory or wildcard pattern that describes what to upload
-        path: .\UnityScreenApp\Assets\Plugins\*.dll
+        path: .\*
